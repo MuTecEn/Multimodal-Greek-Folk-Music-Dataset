@@ -2,17 +2,19 @@
 
 ## For the Feature Analysis:
 
-Run: miditoolbox
+Run: MIDIfeatures.m
 
 ## For the Pattern Discovery Algorithm: 
 
-analyzeMIDI('Syrtos-Ikaria.mid',[0,NaN,NaN,NaN,6],4) --- update with your file
+in MATLAB:
 
-batchanalysis ---- for patterns across the corpus
+Run analyzeMIDI('Syrtos-Ikaria.mid',[0,NaN,NaN,NaN,6],4) --- for patterns across one tune
 
-You need to use the keysignature.csv 
+Run batchanalysis --- for patterns across the corpus
+
+You need to use the keysignature.csv!
 
 ## For the T-SNE related to the pattern analysis:
-Run: patternembedding
+Run: patternembedding.m
 
 

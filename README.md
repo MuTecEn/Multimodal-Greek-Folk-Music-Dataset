@@ -1,4 +1,4 @@
-# Computational Analysis of Greek Folk Music: The case of Aegean Syrtos and Balos
+# Multimodal Greek Folk Music Dataset
 
 This work contains a dataset of Greek Aegean folk music tunes focusing on two prominent dances, Syrtos and Balos, and its feature-pattern analysis.
 

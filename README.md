@@ -28,10 +28,6 @@ Run batchanalysis --- for patterns across the corpus
 
 You need to use the keysignature.csv!
 
-## For the T-SNE related to the pattern analysis:
-Run: patternembedding.m
-
-
 ## License
 This dataset is released under the MIT license. See the LICENSE file for more details.
 
